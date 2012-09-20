@@ -15,7 +15,7 @@ This Technology template provides an easy way to create a graph showing the puls
 
 <b>     How to</b>
 
-1: Get the C# project from: http://www.
+1: Get the C# project from: https://www.dropbox.com/s/j6imj9euvq1ywbw/Graphmaker.rar
 
 2: Open in C# compiler (Example Visual Studio 2010)
 
