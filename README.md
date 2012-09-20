@@ -12,12 +12,16 @@ This Technology template provides an easy way to create a graph showing the puls
   A datafile containing the numbers of a pulse.
 
   Internet access. 
+  
+  A .rar file unpacker.
 
 <b>     How to</b>
 
 1: Get the C# project from: https://www.dropbox.com/s/j6imj9euvq1ywbw/Graphmaker.rar
 
-2: Open in C# compiler (Example Visual Studio 2010)
+2: Open Graphmaker.rar and unpack the Graphmaker folder.
+
+2: Open C# compiler (Example Visual Studio 2010) and choose "Open Project" and select the 
 
 3: Run program
 
