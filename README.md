@@ -17,11 +17,9 @@ This Technology template provides an easy way to create a graph showing the puls
 
 <b>     How to</b>
 
-1: Get the C# project from: https://www.dropbox.com/s/j6imj9euvq1ywbw/Graphmaker.rar
+1: Save the "Graphmaker" folder to your computer..
 
-2: Open Graphmaker.rar and unpack the Graphmaker folder.
-
-2: Open C# compiler (Example Visual Studio 2010) and choose "Open Project" and select the 
+2: Open C# compiler (Example Visual Studio 2010) and choose "Open Project" and open the "Graphmaker" project.
 
 3: Run program
 
