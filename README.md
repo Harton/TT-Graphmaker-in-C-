@@ -1,4 +1,28 @@
-TT-Graphmaker-in-C-
+TT-Graphmaker-in-C#
 ===================
 
-Creating a Pulse/time graph from a data file (.csv or .txt) in C#
+<b>     Purpose</b>
+
+This Technology template provides an easy way to create a graph showing the pulse over time. The data of the pulse is can either come from a .csv or .txt file
+
+<b>     Requirements</b>
+
+  A PC with C# compiler (Any platform will work if compiler is installed)
+
+  A datafile containing the numbers of a pulse.
+
+  Internet access. 
+
+<b>     How to</b>
+
+1: Get the C# project from: http://www.
+
+2: Open in C# compiler (Example Visual Studio 2010)
+
+3: Run program
+
+4: Choose datafile wherever it is on your computer.
+
+5: The program will create an image of the graph with the name "Graph over pulse" in the project folder.
+
+
